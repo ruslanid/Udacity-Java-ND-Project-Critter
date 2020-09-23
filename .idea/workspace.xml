@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="612a45ae-94e4-4bc0-9c90-29d7fb6542ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hjdwIBKdiYOYdIvRI8YPkTPrFc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eCommerce" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ruslan Idrisov\Documents\Programming\Udacity\Java\projects\critter\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CritterFunctionalTest">
+    <configuration name="CritterFunctionalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="critter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jdnd.course3.critter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jdnd.course3.critter" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jdnd.course3.critter.CritterFunctionalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CritterFunctionalTest.testAddPetsToCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="critter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jdnd.course3.critter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jdnd.course3.critter" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jdnd.course3.critter.CritterFunctionalTest" />
+      <option name="METHOD_NAME" value="testAddPetsToCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CritterFunctionalTest.testChangeEmployeeAvailability" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="critter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jdnd.course3.critter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jdnd.course3.critter" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jdnd.course3.critter.CritterFunctionalTest" />
+      <option name="METHOD_NAME" value="testChangeEmployeeAvailability" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CritterFunctionalTest.testFindEmployeesByServiceAndTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="critter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jdnd.course3.critter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jdnd.course3.critter" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jdnd.course3.critter.CritterFunctionalTest" />
+      <option name="METHOD_NAME" value="testFindEmployeesByServiceAndTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CritterFunctionalTest.testFindOwnerByPet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="critter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.jdnd.course3.critter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.jdnd.course3.critter" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.jdnd.course3.critter.CritterFunctionalTest" />
+      <option name="METHOD_NAME" value="testFindOwnerByPet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CritterFunctionalTest" />
+        <item itemvalue="JUnit.CritterFunctionalTest.testAddPetsToCustomer" />
+        <item itemvalue="JUnit.CritterFunctionalTest.testFindEmployeesByServiceAndTime" />
+        <item itemvalue="JUnit.CritterFunctionalTest.testChangeEmployeeAvailability" />
+        <item itemvalue="JUnit.CritterFunctionalTest.testFindOwnerByPet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="612a45ae-94e4-4bc0-9c90-29d7fb6542ea" name="Default Changelist" comment="" />
+      <created>1600528671995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600528671995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1496" y="-825" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1600712311443">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1496" y="-825" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600712311443" />
+    <state x="1571" y="-896" key="#com.intellij.ide.util.MemberChooser" timestamp="1600712875494">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1571" y="-896" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600712875494" />
+    <state x="1246" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600734911422">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1246" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1600734911422" />
+    <state x="1496" y="-833" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600533549344">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1496" y="-833" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600533549344" />
+    <state x="1546" y="-825" key="FileChooserDialogImpl" timestamp="1600790340964">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1546" y="-825" key="FileChooserDialogImpl/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600790340964" />
+    <state width="1876" height="376" key="GridCell.Tab.0.bottom" timestamp="1600891678715">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1600818540334" />
+    <state width="1876" height="376" key="GridCell.Tab.0.bottom/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600891678715" />
+    <state width="1876" height="376" key="GridCell.Tab.0.center" timestamp="1600891678715">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.center/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1600818540333" />
+    <state width="1876" height="376" key="GridCell.Tab.0.center/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600891678715" />
+    <state width="1876" height="376" key="GridCell.Tab.0.left" timestamp="1600891678715">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.left/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1600818540333" />
+    <state width="1876" height="376" key="GridCell.Tab.0.left/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600891678715" />
+    <state width="1876" height="376" key="GridCell.Tab.0.right" timestamp="1600891678715">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.0.right/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1600818540333" />
+    <state width="1876" height="376" key="GridCell.Tab.0.right/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600891678715" />
+    <state x="1581" y="-646" key="ReplaceDuplicatesPrompt" timestamp="1600891554366">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1581" y="-646" key="ReplaceDuplicatesPrompt/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1600806478298" />
+    <state x="1581" y="-646" key="ReplaceDuplicatesPrompt/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600891554366" />
+    <state x="1246" y="-1005" key="SettingsEditor" timestamp="1600713393327">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1246" y="-1005" key="SettingsEditor/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600713393327" />
+    <state x="1496" y="-824" width="540" height="468" key="extract.method.dialog" timestamp="1600891552113">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1496" y="-824" width="540" height="468" key="extract.method.dialog/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1600806470228" />
+    <state x="1496" y="-824" width="540" height="468" key="extract.method.dialog/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600891552113" />
+    <state x="1429" y="-866" width="672" height="678" key="search.everywhere.popup" timestamp="1600737064432">
+      <screen x="806" y="-1080" width="1920" height="999" />
+    </state>
+    <state x="1429" y="-866" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/3840.405.1280.680/806.-1080.1920.999@806.-1080.1920.999" timestamp="1600737064432" />
+    <state x="1429" y="-866" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/806.-1080.1920.999/3840.405.1280.680@806.-1080.1920.999" timestamp="1600730909530" />
+  </component>
+</project>
